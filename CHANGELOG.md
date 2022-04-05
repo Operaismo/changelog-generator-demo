@@ -10,6 +10,14 @@ All notable changes to this project will be documented in this file. See [standa
 * initial feature commit, installed husky with commitlint preventing invalid commit messages ([555e9b2](https://github.com/Operaismo/changelog-generator-demo/commits/555e9b2e388b6613306e91070d642dad13da10c6))
 * testing the feat commit message ([21e20f8](https://github.com/Operaismo/changelog-generator-demo/commits/21e20f86f35b07dafd27fca629380ebd4f4d6f67))
 
+## [0.0.0](https://github.com/Operaismo/changelog-generator-demo/compare/v1.0.0...v0.0.0) (2022-04-05)
+
+
+### Features
+
+* initial feature commit, installed husky with commitlint preventing invalid commit messages ([555e9b2](https://github.com/Operaismo/changelog-generator-demo/commits/555e9b2e388b6613306e91070d642dad13da10c6))
+* testing the feat commit message ([21e20f8](https://github.com/Operaismo/changelog-generator-demo/commits/21e20f86f35b07dafd27fca629380ebd4f4d6f67))
+
 ## [1.0.0](https://github.com/mokkapps/changelog-generator-demo/compare/v0.1.0...v1.0.0) (2021-04-24)
 
 
