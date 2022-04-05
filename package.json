@@ -1,7 +1,7 @@
 {
   "name": "changelog-generator-demo",
-  "private": "true",
-  "version": "0.0.2",
+  "private": "false",
+  "version": "",
   "description": "",
   "main": "index.js",
   "scripts": {
